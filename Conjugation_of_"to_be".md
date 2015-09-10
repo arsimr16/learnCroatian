@@ -1,6 +1,9 @@
-|	     | singular      | plural         |
-| 1st person | Ja sam	     | Mi smo         |
-| 2nd person | Ti si	     | Vi ste         |
+
+
+|	           | singular      | plural         |
+| ---------- | ------------- | -------------- |
+| 1st person | Ja sam	       | Mi smo         |
+| 2nd person | Ti si	       | Vi ste         |
 | 3rd person | On/Ona/Ono je | Oni/One/Ono su |
 
 For questions add “dali” before the verb.
